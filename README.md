@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&?color=gradient&height=260&section=header&text=Hello👋%20I'm%20SARAHSEA&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25&height=260&section=header&text=Hello👋%20I'm%20SARAHSEA&fontSize=30&fontColor=ffffff)
 
   <p>Hello, I'm a hardworking & enthusiastic front-end developer</br>for defining problem and finding a better solution,</br>working with JavaScript, HTML, CSS, Sass, React.js.</p>
 
